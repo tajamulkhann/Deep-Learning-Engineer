@@ -1,5 +1,5 @@
 # Deep-Learning-Engineer
-* Mimic Human Brain 🧠*
+*Mimic Human Brain 🧠*
 
 ## 🧠 Artificial Neural Networks (ANN)
 
