@@ -8,34 +8,34 @@ A structured collection of notes and tutorials on **ANN, CNN, and RNN** concepts
 
 ### 🔹 Artificial Neural Networks (ANN)
 - [Single Layered Neural Network - Perceptron](https://github.com/tajamulkhann/Deep-Learning-Engineer/blob/main/Deep%20Learning%20Handwritten%20Notes/a.%20Single%20Layered%20Neural%20Network%20-%20Perceptron.pdf)
-- [Multi Layered Perceptron - MLP](./Multi%20Layered%20Perceptron%20-%20MLP.pdf) _(added 14 minutes ago)_
-- [Activation Functions](./Activation%20functions.pdf) _(added 13 minutes ago)_
-- [Loss & Cost Function](./Loss%20&%20Cost%20Function.pdf) _(added 4 minutes ago)_
-- [Optimisers](./Optimisers.pdf) _(added 13 minutes ago)_
-- [Weight Initialisation Techniques](./Weight%20Initialisation%20Techniques.pdf) _(added 13 minutes ago)_
-- [Dropout Layer](./Dropout%20Layer.pdf) _(added 11 minutes ago)_
-- [ANN Practical](./ANN%20Practical.pdf) _(added 11 minutes ago)_
+- [Multi Layered Perceptron - MLP](https://github.com/tajamulkhann/Deep-Learning-Engineer/blob/main/Deep%20Learning%20Handwritten%20Notes/b.%20Multi%20Layered%20Perceptron%20-%20MLP.pdf)
+- [Activation Functions](https://github.com/tajamulkhann/Deep-Learning-Engineer/blob/main/Deep%20Learning%20Handwritten%20Notes/c.%20Activation%20functions.pdf)
+- [Loss & Cost Function](https://github.com/tajamulkhann/Deep-Learning-Engineer/blob/main/Deep%20Learning%20Handwritten%20Notes/d.%20Loss%20%26%20Cost%20Function.pdf)
+- [Optimisers](https://github.com/tajamulkhann/Deep-Learning-Engineer/blob/main/Deep%20Learning%20Handwritten%20Notes/e.%20Optimisers.pdf)
+- [Weight Initialisation Techniques](https://github.com/tajamulkhann/Deep-Learning-Engineer/blob/main/Deep%20Learning%20Handwritten%20Notes/f.%20Weight%20Initialisation%20Techniques.pdf)
+- [Dropout Layer](https://github.com/tajamulkhann/Deep-Learning-Engineer/blob/main/Deep%20Learning%20Handwritten%20Notes/g.%20Dropout%20Layer.pdf)
+- [ANN Practical](https://github.com/tajamulkhann/Deep-Learning-Engineer/blob/main/Deep%20Learning%20Handwritten%20Notes/h.%20ANN%20Practical.pdf)
 
 ---
 
 ### 🔹 Convolutional Neural Networks (CNN)
-- [CNN](./CNN.pdf) _(added 11 minutes ago)_
+- [CNN](https://github.com/tajamulkhann/Deep-Learning-Engineer/blob/main/Deep%20Learning%20Handwritten%20Notes/i.%20CNN.pdf)
 
 ---
 
 ### 🔹 Recurrent Neural Networks (RNN)
-- [Simple RNN](./Simple%20RNN.pdf) _(added 11 minutes ago)_
-- [Forward & Back Propagation of RNN](./Forward%20&%20Back%20Propagation%20of%20RNN.pdf) _(added 4 minutes ago)_
-- [Problems with RNN](./Problems%20with%20RNN.pdf) _(added 4 minutes ago)_
-- [Simple RNN Practicals](./Simple%20RNN%20Practical’s.pdf) _(added 4 minutes ago)_
-- [LSTM & GRU](./LSTM%20&%20GRU.pdf) _(added 3 minutes ago)_
-- [Bidirectional RNN](./Bidirectional%20RNN.pdf) _(added 3 minutes ago)_
+- [Simple RNN](https://github.com/tajamulkhann/Deep-Learning-Engineer/blob/main/Deep%20Learning%20Handwritten%20Notes/j.%20Simple%20RNN.pdf)
+- [Forward & Back Propagation of RNN](https://github.com/tajamulkhann/Deep-Learning-Engineer/blob/main/Deep%20Learning%20Handwritten%20Notes/k.%20Forward%20%26%20Back%20Propagation%20of%20RNN.pdf)
+- [Problems with RNN](https://github.com/tajamulkhann/Deep-Learning-Engineer/blob/main/Deep%20Learning%20Handwritten%20Notes/l.%20Problems%20with%20RNN.pdf)
+- [Simple RNN Practicals](https://github.com/tajamulkhann/Deep-Learning-Engineer/blob/main/Deep%20Learning%20Handwritten%20Notes/m.%20Simple%20RNN%20Practical’s.pdf)
+- [LSTM & GRU](https://github.com/tajamulkhann/Deep-Learning-Engineer/blob/main/Deep%20Learning%20Handwritten%20Notes/n.%20LSTM%20%26%20GRU.pdf)
+- [Bidirectional RNN](https://github.com/tajamulkhann/Deep-Learning-Engineer/blob/main/Deep%20Learning%20Handwritten%20Notes/o.%20Bidirectional%20RNN.pdf)
 
 ---
 
 ### 🔹 Sequence Models (Seq2Seq)
-- [Vanilla Encoder Decoder - Seq2Seq](./Vanilla%20Encoder%20Decoder%20-%20seq2seq.pdf) _(added 2 minutes ago)_
-- [Attention Mechanism - Seq2Seq](./Attention%20Mechanism%20-%20seq2seq.pdf) _(added 2 minutes ago)_
+- [Vanilla Encoder Decoder - Seq2Seq](https://github.com/tajamulkhann/Deep-Learning-Engineer/blob/main/Deep%20Learning%20Handwritten%20Notes/p.%20Vanilla%20Encoder%20Decoder%20-%20seq2seq.pdf)
+- [Attention Mechanism - Seq2Seq](https://github.com/tajamulkhann/Deep-Learning-Engineer/blob/main/Deep%20Learning%20Handwritten%20Notes/q.%20Attention%20Mechanism%20-%20seq2seq.pdf)
 
 ---
 
