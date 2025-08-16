@@ -7,7 +7,7 @@ A structured collection of notes and tutorials on **ANN, CNN, and RNN** concepts
 ## 📂 Contents
 
 ### 🔹 Artificial Neural Networks (ANN)
-- [Single Layered Neural Network - Perceptron](./Single%20Layered%20Neural%20Network%20-%20Perceptron.pdf) _(added 14 minutes ago)_
+- [Single Layered Neural Network - Perceptron](./Single%20Layered%20Neural%20Network%20-%20Perceptron.pdf)
 - [Multi Layered Perceptron - MLP](./Multi%20Layered%20Perceptron%20-%20MLP.pdf) _(added 14 minutes ago)_
 - [Activation Functions](./Activation%20functions.pdf) _(added 13 minutes ago)_
 - [Loss & Cost Function](./Loss%20&%20Cost%20Function.pdf) _(added 4 minutes ago)_
