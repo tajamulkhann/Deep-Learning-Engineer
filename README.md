@@ -39,7 +39,7 @@ A structured collection of notes and tutorials on **ANN, CNN, and RNN** concepts
 
 ### 🔹 Transformers
 ---
-- [Complete Transformers - Encoder Decoder with Self Encoding](https://github.com/tajamulkhann/Deep-Learning-Engineer/blob/main/Deep%20Learning%20Handwritten%20Notes/%20r.%20Transformers.pdf)
+- [Complete Transformers - Encoder Decoder with Self Attention](https://github.com/tajamulkhann/Deep-Learning-Engineer/blob/main/Deep%20Learning%20Handwritten%20Notes/%20r.%20Transformers.pdf)
 
 ## 📖 Overview
 This repository is a **step-by-step learning path** for Neural Networks:
